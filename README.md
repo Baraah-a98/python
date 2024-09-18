@@ -1,2 +1,2 @@
 # python
-the sources form books, W3schoole, Udacity 
+The sources from books, W3schoole, Udacity 
